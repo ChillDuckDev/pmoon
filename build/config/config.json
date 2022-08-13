@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0x87f88eB510ab85b3FD701f408E337cE42B93aDEe",
+  "SCAN_LINK": "https://etherscan.io/address/0x87f88eb510ab85b3fd701f408e337ce42b93adee",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "PunkMoonbirds",
+  "SYMBOL": "PunkMoonbird",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 0.001,
+  "freetokens":0,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 30,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/punkmoonbirds",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": false
+}
