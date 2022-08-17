@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10000,
   "DISPLAY_COST": 0.001,
   "freetokens":0,
-  "GAS_LIMIT": 145000,
+  "GAS_LIMIT": 155000,
   "MAX_PER_TX": 30,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/punkmoonbirds",
