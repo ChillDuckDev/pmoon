@@ -9,7 +9,7 @@
   "NFT_NAME": "PunkMoonbirds",
   "SYMBOL": "PunkMoonbird",
   "MAX_SUPPLY": 10000,
-  "DISPLAY_COST": 0.001,
+  "DISPLAY_COST": 0.005,
   "freetokens":0,
   "GAS_LIMIT": 155000,
   "MAX_PER_TX": 30,
