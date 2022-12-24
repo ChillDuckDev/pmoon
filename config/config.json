@@ -6,8 +6,8 @@
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "PunkMoonbirds",
-  "SYMBOL": "PunkMoonbird",
+  "NFT_NAME": "Punk Moonbirds",
+  "SYMBOL": "Punk Moonbird",
   "MAX_SUPPLY": 10000,
   "DISPLAY_COST": 0.001,
   "freetokens":0,
